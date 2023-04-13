@@ -4,7 +4,7 @@
 
 <h4><p align="center"> GEO CABUL </p></h4>
 
-<p align="center">VEO CABUL BOT is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">GEO CABUL BOT is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/Aikarobot"> <img src="https://img.shields.io/badge/Emiko-Robot-blue?&logo=telegram" alt="Emiko on Telegram" /> </a><br>
