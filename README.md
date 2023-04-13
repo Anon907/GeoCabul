@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph//file/cabb065eb5c2d1c76f3eb.jpg">
 </p>
 
 <h4><p align="center"> GEO CABUL </p></h4>
